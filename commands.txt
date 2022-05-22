@@ -1,0 +1,2 @@
+/* Ordem dos comandos */
+npm create vite@latest

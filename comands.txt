@@ -1,0 +1,6 @@
+/* Ordem dos comandos */
+- npm create vite@latest (iniciar projeto)
+- npx tailwindcss init -p (classes de css já prontas)
+- npm install -D tailwindcss postcss autoprefixer
+- npm install phosphor-react (ícones)
+- npm install @headlessui/react (bibliioteca de acessibilidade)
